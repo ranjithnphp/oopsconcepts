@@ -1,6 +1,7 @@
-//CREATING CLASS & OBJECT:
 
 <?php
+
+//////////CREATING CLASS & OBJECTS////////////
 
 class MyComputer{
     public $price=80000;
